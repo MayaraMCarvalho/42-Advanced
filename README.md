@@ -18,7 +18,7 @@ Specialization Projects - 42 Sao Paulo
 
 |   name	|   subject	|   synopsis	| skills
 |---	|---	|---	|---	|
-| **[Piscine Object](https://github.com/MayaraMCarvalho/3-Piscine_Object)** 	| An introduction to network security with Man In The Middle attack. 	| Descrever detalhes do ```projeto```.  |  <ul><li>Organization</li><li>Adaptation & creativity</li><li>Object-oriented programming</li><ul>  |
+| **[Piscine Object](https://github.com/MayaraMCarvalho/3-Piscine_Object)** 	| Descrever subject. 	| Descrever detalhes do ```projeto```.  |  <ul><li>Organization</li><li>Adaptation & creativity</li><li>Object-oriented programming</li><ul>  |
 
 
 ## Mobile
