@@ -1,5 +1,5 @@
 # 42-Advanced
-Specialization Projects - 42 Sao Paulo
+Specialization Projects - 42 São Paulo
 
 ## System administration
 
