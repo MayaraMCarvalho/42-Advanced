@@ -21,10 +21,5 @@ Specialization Projects - 42 São Paulo
 | **[Piscine Object](https://github.com/MayaraMCarvalho/3-Piscine_Object)** 	| Descrever subject. 	| Descrever detalhes do ```projeto```.  |  <ul><li>Organization</li><li>Adaptation & creativity</li><li>Object-oriented programming</li><ul>  |
 
 
-## Mobile
-
-|   name	|   subject	|   synopsis	| skills
-|---	|---	|---	|---	|
-| **[swifty-companion](https://github.com/MayaraMCarvalho/4-swifty-companion)** 	| This project is an introduction to mobile programming. The goal is to create, an application which will allow you to get infos about 42students, using the API. 	| Descrever detalhes do ```projeto```.  |  <ul><li>DB & Data</li><li>Adaptation & creativity</li><li>Object-oriented programming</li><li>Technology integration</li><ul>  |
 
 
