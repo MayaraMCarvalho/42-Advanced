@@ -1,6 +1,8 @@
 # 42-Advanced
 Specialization Projects - 42 São Paulo
 
+[![<macarval>'s 42 stats](https://badge.mediaplus.ma/greenbinary/macarval)](https://github.com/oakoudad/badge42)
+
 ## System administration
 
 |   name	|   subject	|   synopsis	| skills
