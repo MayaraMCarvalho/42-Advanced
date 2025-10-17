@@ -3,25 +3,30 @@ Specialization Projects - 42 São Paulo
 
 [![macarval's 42 stats](https://badge.mediaplus.ma/greenbinary/macarval)](https://github.com/oakoudad/badge42)
 
-## System administration
+## Object-oriented programming
 
 |   name	|   subject	|   synopsis	| skills
 |---	|---	|---	|---	|
-| **[ft_linux](https://github.com/MayaraMCarvalho/1-ft_linux)** 	| The first project of the Kernel branch! This is a simple LFS so that you can build your own distribution which will be used in the next projects. 	| Descrever detalhes do ```projeto```.	|  <ul><li>Rigor</li><li>Unix</li><li>Technology integration</li><ul>  |
+| **[Piscine Object](https://github.com/MayaraMCarvalho/1-Piscine_Object)** 	| Descrever subject. 	| Descrever detalhes do ```projeto```.  |  <ul><li>Organization</li><li>Adaptation & creativity</li><li>Object-oriented programming</li><ul>  |
 
-## Cybersecurity
+
+## Cybersecurity & Network
 
 |   name	|   subject	|   synopsis	| skills
 |---	|---	|---	|---	|
 | **[ft_malcolm](https://github.com/MayaraMCarvalho/2-ft_malcolm)** 	| An introduction to network security with Man In The Middle attack. 	| Descrever detalhes do ```projeto```.	|  <ul><li>Unix</li><li>Security</li><li>Network & system administration</li><ul>  |
 
 
-## Object-oriented programming
+## Unix & System
 
 |   name	|   subject	|   synopsis	| skills
 |---	|---	|---	|---	|
-| **[Piscine Object](https://github.com/MayaraMCarvalho/3-Piscine_Object)** 	| Descrever subject. 	| Descrever detalhes do ```projeto```.  |  <ul><li>Organization</li><li>Adaptation & creativity</li><li>Object-oriented programming</li><ul>  |
+| **[Piscine Object](https://github.com/MayaraMCarvalho/3-malloc)** 	| What’s the deal with malloc? You’ve been using it since the piscine C but it’s not a system call. Find out the workings behind optimum memory management and recode it, as well as free and realloc. 	| Descrever detalhes do ```projeto```.  |  <ul><li>Algorithms & AI</li><li>Unix</li><ul>  |
 
 
+## System administration
 
+|   name	|   subject	|   synopsis	| skills
+|---	|---	|---	|---	|
+| **[ft_linux](https://github.com/MayaraMCarvalho/1-ft_linux)** 	| The first project of the Kernel branch! This is a simple LFS so that you can build your own distribution which will be used in the next projects. 	| Descrever detalhes do ```projeto```.	|  <ul><li>Rigor</li><li>Unix</li><li>Technology integration</li><ul>  |
 
