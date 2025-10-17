@@ -7,7 +7,7 @@ Specialization Projects - 42 São Paulo
 
 |   name	|   subject	|   synopsis	| skills
 |---	|---	|---	|---	|
-| **[Piscine Object](https://github.com/MayaraMCarvalho/1-Piscine_Object)** 	| <ul><li>Module 00 - Encapsulation: This project will introduce you to encapsulation.</li><li>Module01 - Relationship: This module will introduce yo to relationship in oriented object programming</li><ul> 	| Descrever detalhes do ```projeto```.  |  <ul><li>Organization</li><li>Adaptation & creativity</li><li>Object-oriented programming</li><ul>  |
+| **[Piscine Object](https://github.com/MayaraMCarvalho/1-Piscine_Object)** 	| <ul><li>Module 00 - Encapsulation: This project will introduce you to encapsulation.</li><li>Module01 - Relationship: This module will introduce yo to relationship in oriented object programming</li><li>Modulo 02 - UML: This project will introduce you to UML.</li><ul> 	| Descrever detalhes do ```projeto```.  |  <ul><li>Object-oriented programming</li><li>Organization</li><li>Adaptation & creativity</li><ul>  |
 
 
 ## Cybersecurity & Network
