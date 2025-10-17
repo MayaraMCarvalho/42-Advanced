@@ -7,7 +7,7 @@ Specialization Projects - 42 São Paulo
 
 |   name	|   subject	|   synopsis	| skills
 |---	|---	|---	|---	|
-| **[Piscine Object](https://github.com/MayaraMCarvalho/1-Piscine_Object)** 	| Descrever subject. 	| Descrever detalhes do ```projeto```.  |  <ul><li>Organization</li><li>Adaptation & creativity</li><li>Object-oriented programming</li><ul>  |
+| **[Piscine Object](https://github.com/MayaraMCarvalho/1-Piscine_Object)** 	| <ul><li>Module 00 - Encapsulation: This project will introduce you to encapsulation.</li><li>Module01 - Relationship: This module will introduce yo to relationship in oriented object programming</li><ul> 	| Descrever detalhes do ```projeto```.  |  <ul><li>Organization</li><li>Adaptation & creativity</li><li>Object-oriented programming</li><ul>  |
 
 
 ## Cybersecurity & Network
@@ -21,7 +21,7 @@ Specialization Projects - 42 São Paulo
 
 |   name	|   subject	|   synopsis	| skills
 |---	|---	|---	|---	|
-| **[Piscine Object](https://github.com/MayaraMCarvalho/3-malloc)** 	| What’s the deal with malloc? You’ve been using it since the piscine C but it’s not a system call. Find out the workings behind optimum memory management and recode it, as well as free and realloc. 	| Descrever detalhes do ```projeto```.  |  <ul><li>Algorithms & AI</li><li>Unix</li><ul>  |
+| **[malloc](https://github.com/MayaraMCarvalho/3-malloc)** 	| What’s the deal with malloc? You’ve been using it since the piscine C but it’s not a system call. Find out the workings behind optimum memory management and recode it, as well as free and realloc. 	| Descrever detalhes do ```projeto```.  |  <ul><li>Algorithms & AI</li><li>Unix</li><ul>  |
 
 
 ## System administration
