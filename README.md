@@ -15,6 +15,7 @@ Specialization Projects - 42 São Paulo
 |   name	|   subject	|   synopsis	| skills
 |---	|---	|---	|---	|
 | **[ft_malcolm](https://github.com/MayaraMCarvalho/2-ft_malcolm)** 	| An introduction to network security with Man In The Middle attack. 	| Descrever detalhes do ```projeto```.	|  <ul><li>Unix</li><li>Security</li><li>Network & system administration</li><ul>  |
+| **[Piscine Cybersecurity](https://github.com/MayaraMCarvalho/4-Piscine_Cybersecurity)** 	| <ul><li>Module 00 - Arachnida: Introductory project on scraping but also on the discovery of metadatas.</li><ul> | Descrever detalhes do ```projeto```.	|  <ul><li>Web</li><li>Security</li><ul>  |
 
 
 ## Unix & System
