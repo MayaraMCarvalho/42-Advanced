@@ -15,8 +15,8 @@ Specialization Projects - 42 São Paulo
 |   name	|   subject	|   synopsis	| skills
 |---	|---	|---	|---	|
 |  **[ft_malcolm](https://github.com/MayaraMCarvalho/2-ft_malcolm)**  |  An introduction to network security with Man In The Middle attack.  |  This project focuses on network security by implementing and analyzing a **Man-in-the-Middle (MITM)** attack. The goal is to understand how this type of attack works in practice, intercepting and potentially altering communication between two parties without their knowledge.  |  <ul><li>Unix</li><li>Security</li><li>Network & system administration</li><ul>  |  
-|  **[Piscine Cybersecurity](https://github.com/MayaraMCarvalho/4-Piscine_Cybersecurity)**  |  <ul><li>Module 00 - Arachnida: Introductory project on scraping but also on the discovery of metadatas.</li><ul>  |  An introductory bootcamp (piscine) to cybersecurity. Module 00, "Arachnida," focuses on **information gathering (OSINT)** techniques, teaching how to create a web scraping tool to extract data from websites and analyze file **metadata** to uncover hidden information.  |  <ul><li>Web</li><li>Security</li><ul>  |  
-
+|  **[Piscine Cybersecurity](https://github.com/MayaraMCarvalho/4-Piscine_Cybersecurity)**  |  <ul><li>Module 00 - Arachnida: Introductory project on scraping but also on the discovery of metadatas. Module 00 focuses on **information gathering (OSINT)** techniques,  teaching how to create a web scraping tool to extract data from websites and analyze file **metadata** to uncover hidden information. | <ul><li>Web</li><li>Security</li><ul>
+| **[Piscine Cybersecurity](https://github.com/MayaraMCarvalho/4-Piscine_Cybersecurity)** | </li><li>Module 01 - ft_otp: Introduction to One-Time Passwords (OTP) and cryptography.</li></ul> | Module 01 focuses on authentication and cryptography, implementing a robust TOTP (Time-based One-Time Password) generator using RFC standards and secure key storage. | <ul><li>Security</li><li>Cryptography</li></ul> |
 
 ## Unix & System
 
