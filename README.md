@@ -1,8 +1,10 @@
 # 42-Advanced
 Specialization Projects - 42 São Paulo
 
+<!--
 [![macarval's 42 stats](https://badge.mediaplus.ma/greenbinary/macarval)](https://github.com/oakoudad/badge42)
 [![macarval's 42 stats](https://badge.mediaplus.ma/landscapes/macarval?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+-->
 
 ## Object-oriented programming
 
